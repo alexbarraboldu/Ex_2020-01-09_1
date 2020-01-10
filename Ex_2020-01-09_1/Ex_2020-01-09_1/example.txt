@@ -1,0 +1,5 @@
+HelloWorld 100
+Manolo 80
+Glatris 50
+Plibvus 20
+pimp 15
